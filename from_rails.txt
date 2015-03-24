@@ -1,0 +1,2 @@
+this is the initail file from the rails to the server.
+if you find it on the server then it successfully pushed
